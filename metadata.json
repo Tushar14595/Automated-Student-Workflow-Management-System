@@ -1,0 +1,6 @@
+{
+  "name": "Automated Student Workflow Management System",
+  "description": "Full-stack student workflow automation platform integrating university gradebooks with automated task reminders, risk monitoring, and intelligent study workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
